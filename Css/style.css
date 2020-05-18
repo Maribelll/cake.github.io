@@ -18,7 +18,7 @@ html, body{
 
 }
 .menu a{
-    color:  #383738;
+    color:   rgb(250, 242, 242);
      text-decoration: none;
 }
  @keyframes MyAnimation1
