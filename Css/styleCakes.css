@@ -36,6 +36,12 @@ html, body{
     text-decoration: none;
     color: #383738;
 }
+.tort{
+  width:100%;
+}
+.tort p{
+  padding-right: 30px;
+}
 .mainWords {
   background-color: rgb(250, 64, 141);
   height: 100px;
@@ -343,6 +349,7 @@ width: 200px;
     width: 90px;
     height: 90px;
   }
+}
  @media all and (max-width: 570px) 
  {
     .menuButtons  {
@@ -413,5 +420,4 @@ width: 200px;
   .menu{
     height: 100px;
   }
-
  }
