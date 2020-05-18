@@ -30,7 +30,7 @@ html, body{
 }
 .menuFooter a{
     text-decoration: none;
-    color: #383738;
+    color:  rgb(250, 242, 242);
 }
 .vitrinaFotos a:hover{  
     text-decoration: none;
